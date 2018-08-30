@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyBlogApp</string>
+    <string name="login_reg_txt">Nedd  A New Account?</string>
+    <string name="search">Search</string>
+    <string name="account_setting">Account Setting</string>
+    <string name="Logout">Logout</string>
+    <string name="already_account">Already Have Account?</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+</resources>
